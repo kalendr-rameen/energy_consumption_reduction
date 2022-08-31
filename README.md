@@ -20,14 +20,13 @@ Description of the data
 
 The data consists of files obtained from different sources:
 
-- `data_arc.csv` - electrode data;
-- `data_bulk.csv` - bulk feed data (volume);
-- `data_bulk_time.csv` *-* bulk feed data (time);
-- `data_gas.csv` - data on gas purging of the alloy;
-- `data_temp.csv` - temperature measurement results;
-- `data_wire.csv` - data on wire materials (volume);
-- `data_wire_time.csv` - data on wire materials (time).
-
+- data_arc.csv - electrode data
+- data_bulk.csv - bulk feed data (volume)
+- data_bulk_time.csv - bulk feed data (time)
+- data_gas.csv - data on gas purging of the alloy
+- data_temp.csv - temperature measurement results
+- data_wire.csv - data on wire materials (volume)
+- data_wire_time.csv - data on wire materials (time).
 
 ```
 
